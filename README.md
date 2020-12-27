@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on Java
+
 🌱 I’m currently learning Web programming
+
 💬 Ask me about Java
 
 <!--
