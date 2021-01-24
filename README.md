@@ -9,3 +9,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&theme=dark&locale=en" alt="aysedemirel" width="50%" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aysedemirel/count.svg" />
+</p>
