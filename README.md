@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ayşe</h1>
-🔭 I’m currently working on Java
-
-🌱 I’m currently learning Web programming
+🔭 I’m currently working on Java <br> 
+🌱 I’m currently learning Web programming <br> 
+🤖 I'm interested in Artificial Intelligence.
 
 💬 Ask me about Java
 
