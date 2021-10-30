@@ -15,5 +15,8 @@
   <img src="https://profile-counter.glitch.me/aysedemirel/count.svg" />
 </p>
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/ayse-demirel/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/aysdemireldeniz)
+[![](https://img.shields.io/badge/linkedin-blue?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/ayse-demirel/)
+[![](https://img.shields.io/badge/twitter-blue?style=plastic&logo=twitter)](https://twitter.com/aysdemireldeniz)
+[![](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium)](https://aysedemirel.medium.com/)
+[![](https://img.shields.io/badge/Portfolio-darkred?style=plastic)](https://aysedemirel.github.io/)
+[![](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://aysedemirel.hashnode.dev/)
