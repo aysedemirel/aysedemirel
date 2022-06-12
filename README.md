@@ -49,8 +49,10 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aysedemirel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=aysedemirel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="aysedemirel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="aysedemirel" width="50%" /></p>
+
 
 <hr>
 
