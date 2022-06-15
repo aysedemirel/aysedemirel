@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ayşe</h1>
 
-# 💫About Me :
+# 💫About Me
 💻 I'm a passionate software engineer. Software is my hobby and also my job. <br>
 🔭 I’m currently working on [algorithm](https://github.com/aysedemirel/algorithm) <br>
 🌱 I’m currently learning **Spring boot and React** <br> 
@@ -48,7 +48,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white)
 
 
-# 📊GitHub Stats :
+# 📊GitHub Stats 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="aysedemirel" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="aysedemirel" width="50%" /></p>
