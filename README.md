@@ -2,7 +2,7 @@
 
 # 💫About Me
 💻 I'm a passionate software engineer. Software is my hobby and also my job. <br>
-🔭 I’m currently working on [algorithm](https://github.com/aysedemirel/algorithm) <br>
+🔭 I’m currently working on [LeetCode problems](https://github.com/aysedemirel/LeetCodeChallenges) <br>
 🌱 I’m currently learning **Spring boot and React** <br> 
 🤖 I'm interested in Artificial Intelligence.<br>
 📝 I regularly write articles on [Medium(for Turkish)](https://aysedemirel.medium.com/) or [Hashnode(for English)](https://aysedemirel.hashnode.dev/)<br>
