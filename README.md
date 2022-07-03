@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ayşe</h1>
 
 # 💫About Me
-💻 I'm a passionate software engineer. Software is my hobby and also my job. <br>
+💻 I'm a software engineer. I'm passionate about coding. Coding is an art <br>
 🔭 I’m currently working on [LeetCode problems](https://github.com/aysedemirel/LeetCodeChallenges) <br>
 🌱 I’m currently learning **Spring boot and React** <br> 
 🤖 I'm interested in Artificial Intelligence.<br>
