@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ayşe</h1>
 
 # 💫About Me
-💻 I'm a software engineer. I'm passionate about coding. Coding is an art <br>
-🔭 I’m currently working on [LeetCode problems](https://github.com/aysedemirel/LeetCodeChallenges) <br>
+💻 I'm a software engineer. I'm passionate about coding. Coding is an art for me<br>
+🔭 I’m currently coding on [Patika Java Tutorials](https://github.com/aysedemirel/patika-java-egitimi) <br>
 🌱 I’m currently learning **Spring boot and React** <br> 
 🤖 I'm interested in Artificial Intelligence.<br>
 📝 I regularly write articles on [Medium(for Turkish)](https://aysedemirel.medium.com/) or [Hashnode(for English)](https://aysedemirel.hashnode.dev/)<br>
@@ -30,8 +30,6 @@
 ![Less](https://img.shields.io/badge/less-2B4C80?style=plastic&logo=less&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) 
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white) 
@@ -44,7 +42,8 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+Hobby -> 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white)
