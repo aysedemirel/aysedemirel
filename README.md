@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ayşe</h1>
 
 # 💫About Me
-💻 Software Engineer: I'm a software engineer passionate about coding, viewing it as art<br>
-🌱 Currently Learning/Improving: Expanding my skills in **Spring boot, React and React Native** <br>
-🤖 Areas of Interest: Mobile App Development and emerging technologies <br>
-📝 Content Creation: I regularly write articles on [Medium(in Turkish)](https://aysedemirel.medium.com/) and [Hashnode(in English)](https://aysedemirel.hashnode.dev/)<br>
-💬 Get in Touch: Feel free to contact me for discussions on **Java**, **React** and **React Native**<br>
-📄 Explore My Experience: Discover more about my journey on [my blog](https://aysedemirel.github.io/) <br>
+💻 **Software Engineer**: I'm a software engineer passionate about coding, viewing it as art<br>
+🌱 **Currently Learning/Improving**: Expanding my skills in **Spring boot, React and React Native** <br>
+🤖 **Areas of Interest**: Mobile App Development and emerging technologies <br>
+📝 **Content Creation**: I regularly write articles on [Medium(in Turkish)](https://aysedemirel.medium.com/) and [Hashnode(in English)](https://aysedemirel.hashnode.dev/)<br>
+💬 **Get in Touch**: Feel free to contact me for discussions on **Java**, **React** and **React Native**<br>
+📄 **Explore My Experience**: Discover more about my journey on [my blog](https://aysedemirel.github.io/) <br>
 
 ## 🌐Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-demirel/)
