@@ -16,6 +16,9 @@
 [![](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://aysedemirel.hashnode.dev/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/aysedemirel/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aysedemirel)
+<a  href="https://gist.github.com/aysedemirel">
+<img src="https://gist-count.vercel.app/api?username=aysedemirel">
+</a>
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white) 
@@ -37,9 +40,12 @@
 
 # 📊GitHub Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="aysedemirel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="aysedemirel" width="50%" /></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="aysedemirel" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="aysedemirel" width="50%" />
+</p>
 
 <hr>
 
