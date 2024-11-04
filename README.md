@@ -3,7 +3,7 @@
 # 💫About Me
 💻 **Software Engineer**: I'm a software engineer passionate about coding, viewing it as art<br>
 🌱 **Currently Learning/Improving**: Expanding my skills in **Spring boot, React and React Native** <br>
-🤖 **Areas of Interest**: Mobile App Development and emerging technologies <br>
+🤖 **Areas of Interest**: Mobile App Development and Web/Desktop Application Development <br>
 📝 **Content Creation**: I regularly write articles on [Medium(in Turkish)](https://aysedemirel.medium.com/) and [Hashnode(in English)](https://aysedemirel.hashnode.dev/)<br>
 💬 **Get in Touch**: Feel free to contact me for discussions on **Java**, **React** and **React Native**<br>
 📄 **Explore My Experience**: Discover more about my journey on [my blog](https://aysedemirel.github.io/) <br>
@@ -30,8 +30,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) 
-![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white) 
