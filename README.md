@@ -10,7 +10,6 @@
 
 ## 🌐Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-demirel/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/aysdemireldeniz)
 [![](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://aysedemirel.medium.com/)
 [![](https://img.shields.io/badge/Portfolio-darkred?style=plastic)](https://aysedemirel.github.io/)
 [![](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://aysedemirel.hashnode.dev/)
