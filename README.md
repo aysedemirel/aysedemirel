@@ -1,47 +1,44 @@
-<h1 align="center">Hi there 👋, I'm Ayşe</h1>
+<h1 align="center">👩‍💻 Welcome! I'm Ayşe</h1>
 
-# 💫About Me
-💻 **Software Engineer**: I'm a software engineer passionate about coding, viewing it as art<br>
-🌱 **Currently Learning/Improving**: Expanding my skills in **Spring boot, React and React Native** <br>
-🤖 **Areas of Interest**: Mobile App Development and Web/Desktop Application Development <br>
-📝 **Content Creation**: I regularly write articles on [Medium(in Turkish)](https://aysedemirel.medium.com/) and [Hashnode(in English)](https://aysedemirel.hashnode.dev/)<br>
-💬 **Get in Touch**: Feel free to contact me for discussions on **Java**, **React** and **React Native**<br>
-📄 **Explore My Experience**: Discover more about my journey on [my blog](https://aysedemirel.github.io/) <br>
+I'm a passionate **Software Engineer** who enjoys crafting scalable, maintainable, and impactful applications.  
+I specialize in **Java & Spring Boot** on the backend, and the **React ecosystem (React, React Native, TypeScript)** on the frontend.  
+Beyond coding, I enjoy sharing knowledge through articles, contributing to open-source, and continuously learning new technologies.  
 
-## 🌐Socials
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-demirel/)
-[![](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://aysedemirel.medium.com/)
-[![](https://img.shields.io/badge/Portfolio-darkred?style=plastic)](https://aysedemirel.github.io/)
-[![](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://aysedemirel.hashnode.dev/)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black)](https://leetcode.com/aysedemirel/)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aysedemirel)
+## 💫About Me
+🎯 Focused on **Mobile & Web Application Development**  
+🌱 Currently improving my expertise in **Spring Boot & React Native**  
+✍️ Writing technical blogs on [Medium (Turkish)](https://aysedemirel.medium.com/) and [Hashnode (English)](https://aysedemirel.hashnode.dev/)  
+💬 Open to discussions about **Java, React, and React Native**  
+🌍 Check out more about me on my [Portfolio](https://aysedemirel.github.io/)  
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-demirel/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aysedemirel.medium.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aysedemirel.hashnode.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge)](https://aysedemirel.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aysedemirel/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aysedemirel)
+
 <a  href="https://gist.github.com/aysedemirel">
 <img src="https://gist-count.vercel.app/api?username=aysedemirel">
 </a>
 
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) 
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Unity](https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊GitHub Stats 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&hide_border=false&locale=en&include_all_commits=true&count_private=true&layout=compact" alt="aysedemirel" />
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysedemirel&show_icons=true&theme=radical&layout=compact"/>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aysedemirel&show_icons=true&hide_border=false&include_all_commits=true&theme=dark&locale=en" alt="aysedemirel" width="50%" />
-</p>
-
-<hr>
