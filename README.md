@@ -7,14 +7,14 @@ Beyond coding, I enjoy sharing knowledge through articles, contributing to open-
 ## 💫About Me
 🎯 Focused on **Mobile & Web Application Development**  
 🌱 Currently improving my expertise in **Spring Boot & React Native**  
-✍️ Writing technical blogs on [Medium (Turkish)](https://aysedemirel.medium.com/) and [Hashnode (English)](https://aysedemirel.hashnode.dev/)  
+✍️ Writing technical blogs on [Medium (Turkish)](https://aysedemirel.medium.com/) and [Substack (English)](https://aysedemireldeniz.substack.com/)  
 💬 Open to discussions about **Java, React, and React Native**  
 🌍 Check out more about me on my [Portfolio](https://aysedemirel.github.io/)  
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-demirel/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aysedemirel.medium.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aysedemirel.hashnode.dev/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)]([#](https://aysedemireldeniz.substack.com/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge)](https://aysedemirel.github.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aysedemirel/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aysedemirel)
